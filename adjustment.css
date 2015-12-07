@@ -1,0 +1,93 @@
+/*
+ * ============================
+ * Just Add the Nessary Class
+ * ============================
+ */
+
+/* -- No Pading -- */
+.no.padding{
+    padding: 0;
+}
+
+/*-- Top and Bottom Padding With 20px --*/
+.padding-top{
+    padding-top: 20px;
+}
+.padding-bottom{
+    padding-bottom: 20px;
+}
+
+/*-- Right and Left Padding With 10px --*/
+.right-padding{
+    padding-right: 10px;
+}
+.left-padding{
+    padding-left: 10px;
+}
+
+/*-- No Side padding (Right , Left, Top, Bottom)--*/
+.no-right-padding{
+    padding-right: 0;
+}
+.no-left-padding{
+    padding-left: 0;
+}
+.no-top-padding{
+    padding-top: 0;
+}
+.no-bottom-padding{
+    padding-bottom: 0;
+}
+
+
+/*
+ * ========================
+ *        Margin Arial
+ * ========================
+ */
+
+/*-- No All Margin*/
+.no-margin{
+    margin: 0;
+}
+/*-- No Box Margin ( Left, Right, Top, Bottom)--*/
+.no-left-margin{
+    margin-left: 0;
+}
+.no-right-margin{
+    margin-right: 0;
+}
+.no-top-margin{
+    margin-top: 0;
+}
+.no-bottom-margin{
+    margin-bottom: 0;
+}
+
+/*-- Up and Down Margins with 30px*/
+.up-down-margin{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+/*-- Left and Right Marings with 10px --*/
+.left-margin{
+    margin-left: 10px;
+}
+.right-margin{
+    margin-right: 10px;
+}
+
+/*
+ * =====================================================
+ *      Setting up tha maximum Page width with: 960px
+ * =====================================================
+ */
+.page-max-width{
+    max-width: 960px;
+    margin: 0 auto;
+}
+.white-background{
+    background-color: #ffffff;
+}
+
